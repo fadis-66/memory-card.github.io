@@ -49,6 +49,7 @@ body {
 .card {
 	border: 1px solid white;
 	border-radius: 10px;
+	height : 180px;
 	position: relative;
 	background: #1485c7;
 	transform-style: preserve-3d;
