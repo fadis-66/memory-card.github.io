@@ -23,7 +23,6 @@
 }
 
 body {
-	height: 100vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -37,8 +36,7 @@ body {
 }
 
 .game-container {
-	width: 75vw;
-	height: 85vh;
+	width: 90vw;
 	display: grid;
 	grid-template-columns: repeat(6, 1fr);
 	gap: 15px;
@@ -81,8 +79,7 @@ body {
 
 @media only screen and (max-width: 500px) {
 	.game-container {
-		width: 75vw;
-		height: 85vh;
+		width: 90vw;
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
 		gap: 15px;
@@ -93,8 +90,7 @@ body {
 
 @media only screen and (min-width: 501px) and (max-width: 900px) {
 	.game-container {
-		width: 75vw;
-		height: 85vh;
+		width: 90vw;
 		display: grid;
 		grid-template-columns: repeat(4, 1fr);
 		gap: 15px;
