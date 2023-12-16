@@ -82,7 +82,7 @@ body {
 		width: 90vw;
 		display: grid;
 		grid-template-columns: repeat(6, 1fr);
-		gap: 15px;
+		gap: 5px;
 		padding: 20px 5px;
 		perspective: 1000px;
 	}
