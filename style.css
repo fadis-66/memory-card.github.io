@@ -81,8 +81,8 @@ body {
 	.game-container {
 		width: 90vw;
 		display: grid;
-		grid-template-columns: repeat(6, 1fr);
-		gap: 5px;
+		grid-template-columns: repeat(4, 1fr);
+		gap: 8px;
 		padding: 20px 5px;
 		perspective: 1000px;
 	}
